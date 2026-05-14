@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sante Price Index 🛒📈
 
 Sante Price Index is a comprehensive intelligence tool designed for fresh-market vendors and retailers to make data-driven decisions. It provides live mandi prices, profit calculations, inventory management, and an integrated AI assistant to optimize daily business operations.
@@ -23,7 +23,6 @@ Sante Price Index is a comprehensive intelligence tool designed for fresh-market
   <img src="screenshots/smart_alerts.png" width="200" alt="Smart Alert Screen">
   <img src="screenshots/Ai_chat_bot.png" width="200" alt="AI Agent">
   <img src="screenshots/profit_calculator.png" width="200" alt="Profit Calculator">
-  <img src="screenshots/board.png" width="200" alt="Price Board">
   <img src="screenshots/price_watch.png" width="200" alt="Live Price Screen">
   <img src="screenshots/profile.png" width="200" alt="Profile Screen">
 
@@ -279,17 +278,8 @@ Feel free to:
 * improve UI/UX
 * optimize performance
 
----
-
-# 📜 License
-
-This project is for educational and research purposes.
-
----
-
 # 👨‍💻 Developed By
 
 **Chetan Malkhed**
 
 Smart solutions for efficient vegetable trading 🚜📊
->>>>>>> 8eea4022309a0cfb54d902c284d4a8e3aef063ee
