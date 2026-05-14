@@ -1,6 +1,3 @@
-Here’s a cleaner and more professional README for your project:
-
----
 
 # Sante Price Index 🛒📈
 
