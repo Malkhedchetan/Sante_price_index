@@ -17,6 +17,7 @@ Sante Price Index is a comprehensive intelligence tool designed for fresh-market
 
 <p align="center">
   <img src="screenshots/login.png" width="200" alt="Login">
+  <img src="screenshots/price_watch.png" width="200" alt="profile">
   <img src="screenshots/home.png" width="200" alt="Home Screen">
   <img src="screenshots/price_trends.png" width="200" alt="Price trends Screen">
   <img src="screenshots/best_market.png" width="200" alt="Best Market Screen">
@@ -25,6 +26,7 @@ Sante Price Index is a comprehensive intelligence tool designed for fresh-market
   <img src="screenshots/profit_calculator.png" width="200" alt="Profit Calculator">
   <img src="screenshots/price_watch.png" width="200" alt="Live Price Screen">
 </p>
+
 
 ## 🛠 Tech Stack
 
